@@ -1,0 +1,23 @@
+﻿/* insertion des polices choisis */
+
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('polices/static/Raleway-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RalewayMedium';
+    src: url('polices/static/Raleway-Medium.ttf') format('truetype');
+}
+
+/* container general */
+
+body {
+    font-family: 'RalewayMedium','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+#bloc_page {
+    width: 1435px;
+    margin: auto;
+}

@@ -13,13 +13,13 @@
         
            <div id="enTete"> 
                 <div id="logo">
-                    <img src="images/logo/Reservia@3x.png" alt="Réservia" />
+                    <img src="images/logo/Reservia@3x.png" alt="Rï¿½servia" />
                 </div>
 
                 <nav>
                     <ul>
-                        <li><a href="#">Hébergements</a></li>
-                        <li><a href="#">Activités</a></li>
+                        <li><a href="#">Hï¿½bergements</a></li>
+                        <li><a href="#">Activitï¿½s</a></li>
                         <li ><a id="inscription" href="#">S'incrire</a></li>
                     </ul>
                 </nav>
@@ -28,7 +28,7 @@
         </header>
 
         <div id="recherche">
-            <h1>Trouvez votre hébergement pour des vancances de rêve</h1>
+            <h1>Trouvez votre hï¿½bergement pour des vancances de rï¿½ve</h1>
             <p>En plein centre ville ou en pleine nature </p>
             <form>
                <label> <i class="fas fa-map-marker-alt"></i> </label>
@@ -41,7 +41,7 @@
                 <div class="filtre"><div class="icone_filtre"><i class="fas fa-money-bill-wave"></i></div><p>Economique</p></div>
                 <div class="filtre"><div class="icone_filtre"><i class="fas fa-child"></i></div><p>Familial</p></div>
                 <div class="filtre"><div class="icone_filtre"><i class="fas fa-heart"></i></div><p>Romantique</p></div>
-                <div class="filtre"><div class="icone_filtre"><i class="fas fa-dog"></i></div><p>Animaux autorisés</p></div>
+                <div class="filtre"><div class="icone_filtre"><i class="fas fa-dog"></i></div><p>Animaux autorisï¿½s</p></div>
             </div>
             <div id="info"><div class="image_icone"><i class="fas fa-info"></i></div><p>Plus de 500 logements disponibles dans cette ville</p></div>
         </div>
@@ -49,13 +49,13 @@
 
             <div id="page_principale">
                 <section id="hebergements">
-                    <h2>Hébergements à Marseille</h2>
+                    <h2>Hï¿½bergements ï¿½ Marseille</h2>
                     <div id="les_vignettes">    
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/marcus-loke-WQJvWU_HZFo-unsplash.jpg" alt="Auberge de la cannebière" />
+                            <img src="images/hebergements/1_xlarge/marcus-loke-WQJvWU_HZFo-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
                             <div>
-                                <p>Auberge de la cannebière</p>
-                                <p>Nuits à partir de 25$</p>
+                                <p>Auberge de la cannebiï¿½re</p>
+                                <p>Nuits ï¿½ partir de 25$</p>
                             </div>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
@@ -66,9 +66,9 @@
                             </div>
                         </div>
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/fred-kleber-gTbaxaVLvsg-unsplash.jpg" alt="Auberge de la cannebière" />
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <img src="images/hebergements/1_xlarge/fred-kleber-gTbaxaVLvsg-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -78,9 +78,9 @@
                             </div>
                         </div>
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/reisetopia-B8WIgxA_PFU-unsplash.jpg" alt="Auberge de la cannebière" />
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <img src="images/hebergements/1_xlarge/reisetopia-B8WIgxA_PFU-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -90,9 +90,9 @@
                             </div>
                         </div>
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/annie-spratt-Eg1qcIitAuA-unsplash.jpg" alt="Auberge de la cannebière" />
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <img src="images/hebergements/1_xlarge/annie-spratt-Eg1qcIitAuA-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -102,9 +102,9 @@
                             </div>
                         </div>
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" alt="Auberge de la cannebière" />
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <img src="images/hebergements/1_xlarge/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -114,9 +114,9 @@
                             </div>
                         </div>
                         <div class="detail_vignette"> 
-                            <img src="images/hebergements/1_xlarge/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" alt="Auberge de la cannebière" />
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <img src="images/hebergements/1_xlarge/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -131,11 +131,11 @@
                 <aside>                  
                     <h3>Les plus populaires</h3>                           
                     <div class="detail_populaire"> 
-                        <img src="images/hebergements/4_small/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" alt="Auberge de la cannebière" />
+                        <img src="images/hebergements/4_small/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
                         <div class="texte_pop">
                             <div>
-                                <p>Auberge de la cannebière</p>
-                                <p>Nuits à partir de 25$</p>
+                                <p>Auberge de la cannebiï¿½re</p>
+                                <p>Nuits ï¿½ partir de 25$</p>
                             </div>
                             <div class="note_pop">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
@@ -147,10 +147,10 @@
                         </div>
                     </div>
                     <div class="detail_populaire"> 
-                        <img src="images/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" alt="Auberge de la cannebière" />
+                        <img src="images/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" alt="Auberge de la cannebiï¿½re" />
                         <div class="texte_pop"> 
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note_pop">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -161,10 +161,10 @@
                         </div>
                     </div>
                     <div class="detail_populaire"> 
-                        <img src="images/hebergements/4_small/febrian-zakaria-sjvU0THccQA-unsplash1.jpg" alt="Auberge de la cannebière" />
+                        <img src="images/hebergements/4_small/febrian-zakaria-sjvU0THccQA-unsplash1.jpg" alt="Auberge de la cannebiï¿½re" />
                         <div class="texte_pop"> 
-                            <p>Auberge de la cannebière</p>
-                            <p>Nuits à partir de 25$</p>
+                            <p>Auberge de la cannebiï¿½re</p>
+                            <p>Nuits ï¿½ partir de 25$</p>
                             <div class="note_pop">
                                 <img src="images/icon/star_gold.png" alt="star_gold" />
                                 <img src="images/icon/star_gold.png" alt="Alternate Text" />
@@ -176,7 +176,7 @@
                     </div>                
                 </aside>
                 <section id="activites">
-                    <h2> Activités à Marseille</h2>
+                    <h2> Activitï¿½s ï¿½ Marseille</h2>
                         <div id="corp_activite">
                             <div class="triplette">
                                 <div class="vignette_activites_grande">
@@ -186,11 +186,11 @@
                                 <div class="vignette_activites_petite">
                                     <div class="vignette_petite">
                                         <img src="images/activites/3_medium/paul-hermann-QFTrLdQIRhI-unsplash.jpg" alt="Alternate Text" />
-                                        <p>Fort de pomègues</p>
+                                        <p>Fort de pomï¿½gues</p>
                                     </div>
                                     <div class="vignette_petite">
                                         <img src="images/activites/3_medium/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" alt="Alternate Text" />
-                                        <p>îles du Frioul</p>
+                                        <p>ï¿½les du Frioul</p>
                                     </div>
                                 </div>
                             </div>
@@ -218,12 +218,12 @@
                 <h4>A propos</h4>
                 <p><a href="#">Fonctionnement du site</a></p>
                 <p><a href="#">Conditions generelaes de vente</a></p>
-                <p><a href="#">Données et confidentialité</a></p>
+                <p><a href="#">Donnï¿½es et confidentialitï¿½</a></p>
             </div>
              <div class="pied_page">
-                <h4>Nos hébergements</h4>
-                <p><a href="#">Charte qualité</a></p>
-                <p><a href="#">Soumettre votre hôtel</a></p>
+                <h4>Nos hï¿½bergements</h4>
+                <p><a href="#">Charte qualitï¿½</a></p>
+                <p><a href="#">Soumettre votre hï¿½tel</a></p>
             </div>
              <div class="pied_page">
                 <h4>Assistance</h4>
